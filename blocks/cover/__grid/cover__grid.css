@@ -1,0 +1,8 @@
+.cover__grid {
+  display: grid;
+  text-decoration: none;
+  justify-items: center;
+  align-items: center;
+
+}
+
