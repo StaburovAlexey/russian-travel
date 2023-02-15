@@ -12,12 +12,15 @@
   margin: 0;
 }
 
-.header__lang-link:hover {
+.header__lang-link:nth-child(1) {
   text-decoration: underline;
+}
+
+.header__lang-link:hover {
   opacity: 0.8;
 }
 
-@media screen and (max-width: 320px){
+@media screen and (max-width: 320px) {
 
   .header__lang-link {
     line-height: 20px;
