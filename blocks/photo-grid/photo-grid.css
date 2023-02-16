@@ -15,15 +15,15 @@
   }
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .photo-grid {
-    margin: 92px 24px;
+    margin: 88px 24px;
   }
 }
 
 @media screen and (max-width: 768px) {
   .photo-grid {
-    margin: 92px 16px;
+    margin: 64px 16px;
     gap: 12px;
   }
 }
