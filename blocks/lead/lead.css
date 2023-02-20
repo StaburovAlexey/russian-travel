@@ -4,7 +4,7 @@
 
 }
 
-@media screen and (max-width: 1280px) {
+@media scren and (max-width: 1024px) {
   .lead {
     margin: 0 48px;
   }

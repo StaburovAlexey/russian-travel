@@ -8,7 +8,7 @@
   text-decoration: none;
 }
 
-.header__lang-link:nth-child(2) {
+.header__lang-link:last-child {
   margin: 0;
 }
 
